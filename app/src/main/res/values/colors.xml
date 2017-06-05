@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00b7ff</color>
+    <color name="colorPrimaryDark">#4ab5ea</color>
+    <color name="colorAccent">#ea2b6d</color>
+    <color name="colorbg2">#7a58add1</color>
+    <color name="listBackgroundColor">#3258add1</color>
+    <color name="blue">#0202ff</color>
+    <drawable name="colorbgSelect">#cc4cb8fa</drawable>
+
+
+</resources>
+
